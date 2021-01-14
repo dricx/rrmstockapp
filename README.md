@@ -17,7 +17,7 @@ RRM StockApp 5 es un sistema de facturacion y gestion de inventario programado e
   * Tipos de documentos modificables, tanto para kardex como para documentos del modulo de compra y el modulo de facturacion;
   * Entre otras funciones que pueden ser verificadas dentro del mismo.
   
-El programa esta en version alpha por lo que es muy probable que contenga varios errores.
+<b>El programa esta en version alpha por lo que es muy probable que contenga varios errores.</b>
 
 Los requisitos de instalación son los que siguen a continuación:
   * .Net Framework 4.7.2;

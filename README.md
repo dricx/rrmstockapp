@@ -39,4 +39,31 @@ Los requisitos de instalación son los que siguen a continuación:
   
 La aplicacion viene configurada por defecto para acceder como root, pero es posible reconfigurar esas caracteristicas mas adelante.
 
-Mas abajo podra encontrar algunas screenshots de la aplicación:
+<h3>Mas abajo podra encontrar algunas screenshots de la aplicación:</h3>
+<center>
+<img src="https://github.com/dricx/rrmstockapp/blob/main/screenshots/Screenshot%201.png" alt="Italian Trulli">
+</center>
+
+<center>
+<img src="https://github.com/dricx/rrmstockapp/blob/main/screenshots/Screenshot%202.png" alt="Italian Trulli">
+</center>
+
+<center>
+<img src="https://github.com/dricx/rrmstockapp/blob/main/screenshots/Screenshot%203.png" alt="Italian Trulli">
+</center>
+
+<center>
+<img src="https://github.com/dricx/rrmstockapp/blob/main/screenshots/Screenshot%204.png" alt="Italian Trulli">
+</center>
+
+<center>
+<img src="https://github.com/dricx/rrmstockapp/blob/main/screenshots/Screenshot%205.png" alt="Italian Trulli">
+</center>
+
+<center>
+<img src="https://github.com/dricx/rrmstockapp/blob/main/screenshots/Screenshot%206.png" alt="Italian Trulli">
+</center>
+
+<center>
+<img src="https://github.com/dricx/rrmstockapp/blob/main/screenshots/Screenshot%207.png" alt="Italian Trulli">
+</center>

@@ -20,7 +20,8 @@ RRM StockApp 5 es un sistema de facturación y gestión de inventario programado
   * Configuración de formato de fecha;
   * Configuración de formato de moneda;
   * Tipos de documentos modificables, tanto para kardex como para documentos del módulo de compra y  de facturacion;
-  * Entre otras funciones que pueden ser verificadas dentro del mismo.
+  * Entre otras funciones que pueden ser verificadas dentro del mismo;
+  * Capacidad para trabajar con escáneres de código de barra USB;
   
 <b><span style="color: red">NOTA IMPORTANTE:</span> El programa esta en versión alpha por lo que es muy probable que contenga varios errores.</b>
 
@@ -39,7 +40,7 @@ Los requisitos de instalación son los que siguen a continuación:
   
 La aplicacion viene configurada por defecto para acceder como root, pero es posible reconfigurar esas caracteristicas mas adelante.
 
-<h3>Mas abajo podra encontrar algunas screenshots de la aplicación:</h3>
+<h1>Screenshots</h1>
 <center>
 <img src="https://github.com/dricx/rrmstockapp/blob/main/screenshots/Screenshot%201.png" alt="Italian Trulli">
 </center>

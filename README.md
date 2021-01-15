@@ -27,11 +27,12 @@ Los requisitos de instalación son los que siguen a continuación:
 <h1> Pasos para instalar el programa </h1>
 
 <h4><span style="color: red">Importante:</span> Debe instalar el servidor antes de iniciar el programa.</h4>
- * Ejecute el archivo Setup.exe para instalar la aplicación;
- * Instale el servidor Mysql 10.1.16 o superior O Xampp 3.2.4 o superior (Puede descargarlo desde aquí https://www.apachefriends.org/es/index.html);
- * Cree una base de datos con el nombre <span style="color: red; font-weight: bold">test</span>, es recomendable utilizar el encoding UTF-8 para la base de datos;
- * Vaya a la base de datos creada e importe el archivo squema.sql localizado en la carpeta raíz del programa;
- 
+
+  * Ejecute el archivo Setup.exe para instalar la aplicación;
+  * Instale el servidor Mysql 10.1.16 o superior O Xampp 3.2.4 o superior (Puede descargarlo desde aquí https://www.apachefriends.org/es/index.html);
+  * Cree una base de datos con el nombre <span style="color: red; font-weight: bold">test</span>, es recomendable utilizar el encoding UTF-8 para la base de datos;
+  * Vaya a la base de datos creada e importe el archivo squema.sql localizado en la carpeta raíz del programa;
+  
 La aplicacion viene configurada por defecto para acceder como root, pero es posible reconfigurar esas caracteristicas mas adelante.
 
 Mas abajo podra encontrar algunas screenshots de la aplicación:

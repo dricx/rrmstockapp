@@ -28,6 +28,7 @@ RRM StockApp 5 es un sistema de facturación y gestión de inventario programado
 Los requisitos de instalación son los que siguen a continuación:
   * .Net Framework 4.7.2;
   * MySql 10.4.16-MariaDB o Xampp 3.2.4;
+  * Adobe Acrobat Reader DC;
   
 <h1> Pasos para instalar el programa </h1>
 

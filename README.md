@@ -1,4 +1,4 @@
-# rrmstockapp
+# RRM StockApp v5-alpha
 <center>
 <img src="https://github.com/dricx/rrmstockapp/blob/main/screenshots/Screenshot%204.png" alt="Italian Trulli">
 </center>
@@ -25,12 +25,14 @@ RRM StockApp 5 es un sistema de facturación y gestión de inventario programado
   
 <b><span style="color: red">NOTA IMPORTANTE:</span> El programa esta en versión alpha por lo que es muy probable que contenga varios errores.</b>
 
+## Comenzando 🚀
+
 Los requisitos de instalación son los que siguen a continuación:
   * .Net Framework 4.7.2;
   * MySql 10.4.16-MariaDB o Xampp 3.2.4;
   * Adobe Acrobat Reader DC;
-  
-<h1> Pasos para instalar el programa </h1>
+    
+### Instalación 🔧
 
 <h4><span style="color: red">Importante:</span> Debe instalar el servidor antes de iniciar el programa.</h4>
 
@@ -41,7 +43,25 @@ Los requisitos de instalación son los que siguen a continuación:
   
 La aplicacion viene configurada por defecto para acceder como root, pero es posible reconfigurar esas caracteristicas mas adelante.
 
-<h1>Screenshots</h1>
+## Construido con 🛠️
+
+Para crear el proyecto se utilizo:
+   * Visual Studio Community 2019;
+   * MySQL 10.4.16;
+   * Itext7;
+   * Adobe Acrobat Reader;
+   
+## Versionado 📌
+
+Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/dricx/rrmstockapp/tags).
+
+## Autores ✒️
+
+   * Richard N. Ramos - Desarrollador - [dricx](https://github.com/dricx)
+   
+También puedes mirar la lista de todos los [contribuyentes](https://github.com/dricx/rrmstockapp/contributors) quíenes han participado en este proyecto. 
+
+## Screenshots 📺
 <center>
 <img src="https://github.com/dricx/rrmstockapp/blob/main/screenshots/Screenshot%201.png" alt="Italian Trulli">
 </center>

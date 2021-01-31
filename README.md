@@ -1,6 +1,6 @@
 # RRM StockApp v5-alpha
 <center>
-<img src="https://github.com/dricx/rrmstockapp/blob/main/screenshots/Screenshot%204.png" alt="Italian Trulli">
+<img src="https://github.com/dricx/rrmstockapp/blob/main/screenshots/Screenshot%208.png" alt="Italian Trulli">
 </center>
 
 RRM StockApp 5 es un sistema de facturación y gestión de inventario programado en C#. Cuenta con 9 módulos diferentes de los cuales los mas importantes son:

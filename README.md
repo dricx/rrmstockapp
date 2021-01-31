@@ -1,4 +1,4 @@
-# RRM StockApp v5-alpha
+# RRM StockApp v5.0.7701.22139-alpha2
 <center>
 <img src="https://github.com/dricx/rrmstockapp/blob/main/screenshots/Screenshot%208.png" alt="Italian Trulli">
 </center>

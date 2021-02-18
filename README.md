@@ -1,4 +1,4 @@
-# RRM StockApp v5.0.7701.22139-alpha2
+# RRM StockApp v5.0.7718.17716-alpha2
 <center>
 <img src="https://github.com/dricx/rrmstockapp/blob/main/screenshots/Screenshot%208.png" alt="Italian Trulli">
 </center>
@@ -25,12 +25,30 @@ RRM StockApp 5 es un sistema de facturación y gestión de inventario programado
   
 <b><span style="color: red">NOTA IMPORTANTE:</span> El programa esta en versión alpha por lo que es muy probable que contenga varios errores. Mantengase ingresando al repositorio para versiones mejoradas y con mas funciones.</b>
 
+## Mejoras de nueva version 🧰
+
+  * Mejoras en el formulario de creacion de backups;
+  * Bug arreglado: ahora se pueden crear nuevas base de datos desde el sistema;
+  * Bug arreglado: al iniciar el sistema por primera vez, configura la base de datos del sistema en forma de wizard;
+  * Bug arreglado: si no hay base de datos seleccionada, no carga los datos de la empresa;
+  * Bug arreglado: al presentar los precios y el costo en los documentos de facturacion, compra y devolucion;
+  * Bug arreglado: calculo de itbis en facturas, compras y devoluciones;
+  * Bug arreglado: Al presionar crear nueva factura desde el toolbar no generaba un nuevo documento;
+  * Agregado soporte de impresoras termicas Epson;
+  * Mejoras en formularios de tercero, producto, facturacion, devolucion, compras y cotizacion;
+  * Presenta mas informacion sobre los productos disponibles;
+  * Actualizacion de costes y precios automaticas dependiendo variaciones de costo (opcional);
+  * Mejoras en sistema de escaneo de documentos;
+  * Eliminacion (Anulacion de linea) de producto de factura guardada;
+  * Es posible visualizar todos los proveedores de un producto y el costo desde su ficha;
+  * Sistema de respaldo mejorado, ahora se presentan los respaldos en el formulario clasificados por fecha y es posible respaldar desde el mismo formulario;
+
 ## Comenzando 🚀
 
 Los requisitos de instalación son los que siguen a continuación:
   * .Net Framework 4.7.2;
   * MySql 10.4.16-MariaDB o Xampp 3.2.4;
-  * Adobe Acrobat Reader DC;
+  * Adobe Acrobat Reader DC; (Para los reportes)
     
 ### Instalación 🔧
 

@@ -23,7 +23,7 @@ RRM StockApp 5 es un sistema de facturación y gestión de inventario programado
   * Soporte de impresión para impresoras térmicas Epson;
   * Capacidad para trabajar con escáneres de código de barra USB;
   
-<b><span style="color: red">NOTA IMPORTANTE:</span> El programa esta en versión alpha por lo que es muy probable que contenga varios errores. Mantengase ingresando al repositorio para versiones mejoradas y con mas funciones.</b>
+<b><span style="color: red">NOTA IMPORTANTE:</span> El programa esta en versión alpha por lo que es muy probable que contenga varios errores. Mantengase ingresando al repositorio para versiones mejoradas y con mas funciones. Si va a actualizar desde una version anterior, respalde los dato para no perderlos.</b>
 
 ## Mejoras de nueva version 🧰
 
@@ -42,6 +42,7 @@ RRM StockApp 5 es un sistema de facturación y gestión de inventario programado
   * Eliminacion (Anulacion de linea) de producto de factura guardada;
   * Es posible visualizar todos los proveedores de un producto y el costo desde su ficha;
   * Sistema de respaldo mejorado, ahora se presentan los respaldos en el formulario clasificados por fecha y es posible respaldar desde el mismo formulario;
+  * Buscador rápido de documentos por código o Barcode en la ventana principal;
 
 ## Comenzando 🚀
 

@@ -1,4 +1,4 @@
-# RRM StockApp v5.0.7718.17716-alpha2
+# RRM StockApp v5.1.7718.17716-alpha2
 <center>
 <img src="https://github.com/dricx/rrmstockapp/blob/main/screenshots/Screenshot%208.png" alt="Italian Trulli">
 </center>
@@ -53,12 +53,14 @@ Los requisitos de instalación son los que siguen a continuación:
     
 ### Instalación 🔧
 
-<h4><span style="color: red">Importante:</span> Debe instalar el servidor antes de iniciar el programa.</h4>
+<h4><span style="color: red">Importante:</span> Debe instalar y correr el servidor antes de iniciar el programa.</h4>
 
   * Ejecute el archivo Setup.exe para instalar la aplicación;
   * Instale el servidor Mysql 10.1.16 o superior O Xampp 3.2.4 o superior (Puede descargarlo desde aquí https://www.apachefriends.org/es/index.html);
   * Cree una base de datos con el nombre <span style="color: red; font-weight: bold">test</span>, es recomendable utilizar el encoding UTF-8 para la base de datos;
-  * Vaya a la base de datos creada e importe el archivo squema.sql localizado en la carpeta raíz del programa;
+  * Vaya a la base de datos creada e importe el archivo squema.sql localizado en la carpeta raíz del programa; (Este paso es opcional)
+
+<b><span style="color: red">Nota</span>: A partir de esta version solo necesita correr el servidor MySQL y ejecutar la aplicacion. Configurar los accesos de usuario, y seguir las indicaciones del programa. La base de datos se configura de manera automatica al iniciar por primera vez a partir de la version v5.1.7718.17716.</b>
   
 La aplicacion viene configurada por defecto para acceder como root, pero es posible reconfigurar esas caracteristicas mas adelante.
 

@@ -20,10 +20,10 @@ RRM StockApp 5 es un sistema de facturación y gestión de inventario programado
   * Configuración de formato de fecha;
   * Configuración de formato de moneda;
   * Tipos de documentos modificables, tanto para kardex como para documentos del módulo de compra y  de facturacion;
-  * Entre otras funciones que pueden ser verificadas dentro del mismo;
+  * Soporte de impresión para impresoras térmicas Epson;
   * Capacidad para trabajar con escáneres de código de barra USB;
   
-<b><span style="color: red">NOTA IMPORTANTE:</span> El programa esta en versión alpha por lo que es muy probable que contenga varios errores.</b>
+<b><span style="color: red">NOTA IMPORTANTE:</span> El programa esta en versión alpha por lo que es muy probable que contenga varios errores. Mantengase ingresando al repositorio para versiones mejoradas y con mas funciones.</b>
 
 ## Comenzando 🚀
 
@@ -57,7 +57,7 @@ Para todas las versiones disponibles, mira los [tags en este repositorio](https:
 
 ## Autores ✒️
 
-   * Richard N. Ramos - Desarrollador - [dricx](https://github.com/dricx)
+   * Richard N. Ramos - Desarrollador - [dricx](https://github.com/dricx) - [Linkedin](https://www.linkedin.com/in/rramos1988)
    
 También puedes mirar la lista de todos los [contribuyentes](https://github.com/dricx/rrmstockapp/contributors) quíenes han participado en este proyecto. 
 

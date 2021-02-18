@@ -110,7 +110,7 @@ También puedes mirar la lista de todos los [contribuyentes](https://github.com/
 </center>
 
 <center>
-<img src="https://github.com/dricx/rrmstockapp/blob/main/screenshots/Screenshot%209png" alt="Italian Trulli">
+<img src="https://github.com/dricx/rrmstockapp/blob/main/screenshots/Screenshot%209.png" alt="Italian Trulli">
 </center>
 
 ## Licencia 📄

@@ -109,6 +109,10 @@ También puedes mirar la lista de todos los [contribuyentes](https://github.com/
 <img src="https://github.com/dricx/rrmstockapp/blob/main/screenshots/Screenshot%207.png" alt="Italian Trulli">
 </center>
 
+<center>
+<img src="https://github.com/dricx/rrmstockapp/blob/main/screenshots/Screenshot%209png" alt="Italian Trulli">
+</center>
+
 ## Licencia 📄
 
 Este proyecto está bajo la Licencia (GPL-3.0 License) - mira el archivo [LICENSE.md](LICENSE.md) para mas detalles. El desarrollador se guarda el derecho de realizar cambios de licencia sin previo aviso.
